@@ -101,7 +101,14 @@ Set the correct output directory:
 	# set output directory
 	odir = '~/geog311-noise/data/input/noise/2015/_gridavgs/10m'
 
+
+Run the script:
+
+	# cd to the directory in which the scripts live
+	cd "~/geog311-noise/_scripts"
 	
+	# run the code
+	python points2grid.py
 
 ## 2. Noise data
 
